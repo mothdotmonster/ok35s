@@ -5,3 +5,5 @@ hardware needed:
 
 if you want to use the tilt spacer, you'll need
 - 2x 20mm m3 button head screws
+
+print four of foot.stl in TPU, the rest prints fine in PLA or whatever
